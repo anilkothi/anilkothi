@@ -1,0 +1,13 @@
+pwd
+mkdir
+cd
+touch
+vi
+rmdir
+rm -rf
+cat
+cd ..
+cd ../..
+clear
+hostname
+pcconfig
