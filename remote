@@ -1,0 +1,2 @@
+git fetch only downloads changes from the remote repository but does not merge them . 
+it is useful to see what changes are available before merging 
